@@ -46,8 +46,8 @@ FILES  = AdassChecks.py AdassConfig.py AdassIndex.py ADASS_template.tex \
 
 #  probably don't change these either (or notify the editors you have a special paper case)
 PID_URL   = "https://www.canfar.net/storage/vault/list/adass2022/upload/$(P)"
-TAR_FILE  = $(P).tar.gz
-ZIP_FILE  = $(P).zip
+TAR_FILE  = $(P)_v$(V).tar.gz
+ZIP_FILE  = $(P)_v$(V).zip
 POS_FILE  = $(P).pdf
 FILESPDF  = $(P).pdf copyrightForm_$(P)_$(A).pdf
 FILESTEX  = $(P).tex $(P).bib $(FIGS) makedefs

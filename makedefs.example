@@ -1,0 +1,8 @@
+# renamne this file to makedefs
+# this is where you should define *your* macros for the Makefile and
+# not in the Makefile itself
+#P = P12
+#V = 1
+#A = Teuben
+#E = teuben@gmail.com
+#FIGS = P12_*.eps

@@ -3,4 +3,4 @@ P = P27
 V = 1
 A = Tocknell
 E = james.tocknell@mq.edu.au
-#FIGS = P27_*.eps
+FIGS = P27_*.eps
